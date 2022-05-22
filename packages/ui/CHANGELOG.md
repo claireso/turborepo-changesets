@@ -1,5 +1,11 @@
 # ui
 
+## 1.0.0
+
+### Major Changes
+
+- cbc28a1: Create a new component Text
+
 ## 0.0.1
 
 ### Patch Changes
