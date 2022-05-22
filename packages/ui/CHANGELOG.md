@@ -1,5 +1,12 @@
 # ui
 
+## 1.0.1
+
+### Patch Changes
+
+- 52f735a: Add component Heading1
+- 52f735a: Use component Heading1
+
 ## 1.0.0
 
 ### Major Changes
