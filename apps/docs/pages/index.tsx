@@ -1,9 +1,9 @@
-import { Button } from "ui";
+import { Button, Heading1 } from "ui";
 
 export default function Docs() {
   return (
     <div>
-      <h1>Docs</h1>
+      <Heading1>Docs</Heading1>
       <Button>Click me!!</Button>
     </div>
   );
