@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
+        with:
+          # fetch all history and tags
+          fetch-depth: 0
 
       - name: Setup Node.js 16.x
         uses: actions/setup-node@v2
