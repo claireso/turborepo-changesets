@@ -1,5 +1,11 @@
 # web
 
+## 0.1.1
+
+### Patch Changes
+
+- cd041fb: Update typo
+
 ## 0.1.0
 
 ### Minor Changes
