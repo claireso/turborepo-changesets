@@ -1,5 +1,11 @@
 # docs
 
+## 0.0.3
+
+### Patch Changes
+
+- 97529ea: update typo
+
 ## 0.0.2
 
 ### Patch Changes
