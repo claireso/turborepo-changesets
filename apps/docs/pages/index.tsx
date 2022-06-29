@@ -4,7 +4,7 @@ export default function Docs() {
   return (
     <div>
       <Heading1>Docs</Heading1>
-      <Button>Click me!!</Button>
+      <Button>Click me now!!</Button>
     </div>
   );
 }
