@@ -5,7 +5,7 @@ export default function Web() {
     <div>
       <Heading1>Web</Heading1>
       <Text>Welcome to the web page</Text>
-      <Button>Click me!</Button>
+      <Button>Click me now!</Button>
       <Loader />
     </div>
   );
