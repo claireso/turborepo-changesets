@@ -1,5 +1,11 @@
 # ui
 
+## 1.1.0
+
+### Minor Changes
+
+- 22ac2ac: Add component Loader
+
 ## 1.0.1
 
 ### Patch Changes
