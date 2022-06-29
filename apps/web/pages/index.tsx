@@ -1,4 +1,4 @@
-import { Button, Text, Heading1 } from "ui";
+import { Button, Text, Heading1, Loader } from "ui";
 
 export default function Web() {
   return (
@@ -6,6 +6,7 @@ export default function Web() {
       <Heading1>Web</Heading1>
       <Text>Welcome to the web page</Text>
       <Button>Click me!</Button>
+      <Loader />
     </div>
   );
 }
